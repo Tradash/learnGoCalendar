@@ -1,0 +1,5 @@
+http_listen:
+    ip: localhost
+    port: 3236
+log_file: ./log/
+log_level: info
